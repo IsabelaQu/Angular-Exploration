@@ -1,6 +1,6 @@
 # ProjectUiAngular
 
-First Angular project with Bootstrap, initially the idea will be a personal blog, similar to a portfolio. 
+First Angular project with Bootstrap, initially the idea will be a personal blog, similar to a portfolio.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 
